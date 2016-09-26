@@ -407,6 +407,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   padding: 15px 30px;
+  margin-top: 5px;
 }
 ::-moz-selection {
   color: white;
